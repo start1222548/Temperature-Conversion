@@ -1,0 +1,49 @@
+body {
+    font-family: Arial, 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background: sky burlywood;
+    border-color: aqua;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  input[type="number"] {
+    width: 80%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  select {
+    width: 20%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  button {
+    background-color: indigo;
+    color: yellow;
+    padding: 12px 20px;
+    margin: 8px 0;
+    border: orange;
+    border-radius: 4px;
+    cursor: progress;
+  }
+  
+  button:hover {
+    background-color: burlywood;
+  
+  
+  #output {
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    font-style: oblique;
+  }
+  
